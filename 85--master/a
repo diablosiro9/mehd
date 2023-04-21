@@ -1,0 +1,14 @@
+Makefile
+a
+include
+k
+lib
+minishell
+minishell.dSYM
+src
+\
+
+
+
+'> a > -la > ls > b'
+'a > b > ls > -la > c'
